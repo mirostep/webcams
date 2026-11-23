@@ -1,399 +1,218 @@
 #EXTM3U
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Brazil 2
-http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="https://i.imgur.com/sREHnLa.png" ,Charlottetown (CA)
-http://media.gpei.ca/islandcam/guild.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Jablunkov
+
+#EXTINF:-1 group-title="Czech Republic",Prague Panorama
+https://live.idnes.cz/slow/amc/playlist.m3u8
+#EXTINF:-1 group-title="Czech Republic",Prague Airport - Planespotting
+https://live.idnes.cz/slow/planespotting/playlist.m3u8
+#EXTINF:-1 group-title="Czech Republic",Vrsovice Railway Station
+https://live.idnes.cz/slow/vrsovice/playlist.m3u8
+#EXTINF:-1 group-title="Czech Republic",Smichov Railway Depot
+https://live.idnes.cz/slow/vytopna/playlist.m3u8
+#EXTINF:-1 group-title="Czech Republic",Kingdom of Railways
+https://live.idnes.cz/slow/kralovstvizeleznic/playlist.m3u8
+#EXTINF:-1 group-title="Czech Republic",Jaromer Railway Station
+https://live.idnes.cz/slow/jaromer_720p/manifest.m3u8
+#EXTINF:-1 group-title="Czech Republic",Kutna Hora Railway Station
+https://live.idnes.cz/slow/kutnahora_720p/manifest.m3u8
+#EXTINF:-1 group-title="Czech Republic",Brno Zoo - Polar Bears
+https://live.idnes.cz/slow/zoobrno/playlist.m3u8
+#EXTINF:-1 group-title="Czech Republic",Hippos
+https://live.idnes.cz/slow/hrosi/playlist.m3u8
+#EXTINF:-1 group-title="Czech Republic",Jablunkov
 http://stream.silesnet.net/webcams/jablunkov.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Ratibor
+#EXTINF:-1 group-title="Czech Republic",Ratibor
 https://stream.hqv.cz/ratibor.obecni.net/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Airport Düsseldorf 2
-http://stream-5gw.1000eyes.de:1935/cupertino/dus5abb.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Airport Düsseldorf 3
-http://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Airport Düsseldorf 4
-http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Airport Düsseldorf 5
-http://stream-5gw.1000eyes.de/cupertino/dused0c.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Airport Hamburg
-http://stream-5gw.1000eyes.de/cupertino/hamDDFB28.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Airport Hamburg 2
-http://stream-5gw.1000eyes.de/cupertino/hamDDFBCE.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Airport Hamburg 3
-http://stream-5gw.1000eyes.de/cupertino/hamDDD79C.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Airport Hamburg 4
-http://stream-5gw.1000eyes.de/cupertino/hamDD9CCF.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Germany - Binz
-http://cam01.binz-kabel.de/cam1/960.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="https://i.imgur.com/4L0wEdI.png" ,Hamburg (DE)
-https://ch-fra-n10.livespotting.com/vpu/8p96b3b9/l2mucuq9_720.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="https://i.imgur.com/AjlTHRZ.jpg" ,Jelsa - Croatia (HR)
-https://cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="https://i.imgur.com/ILeO18w.png" ,Juist (DE)
-https://cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="https://i.imgur.com/60OW17l.png" ,Krupowki (PL)
-http://hoktastream5.webcamera.pl/krupowki2_cam_62169a/krupowki2_cam_62169a.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Cracow 1
-http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Darlowo
-https://hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Hotel Bania
-http://hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Hotel Stok
-http://hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Karpacz
-http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Krynica Zdroj
-http://hoktastream1.webcamera.pl/pkl_cam_2b18a1/pkl_cam_2b18a1.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Sopot
-http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - TV Cam
-https://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Ujsoly
-http://91.224.104.112:80/ujsoly/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Widok
-http://91.224.104.112:80/wgwidok/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland 8
-http://live.kamera24.pl/umolawa/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Russia - Astrakhan 8
-http://dvr.astrakhan.ru/kir-19-hd-2/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Russia - Barnaul 3
-https://live.katun24.ru:8082/stroteley_soch/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Russia - Barnaul 4
-https://live.katun24.ru:8082/port_ptz/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Russia - Barnaul 5
-https://live.katun24.ru:8082/belokyr_cerkovka/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Russia - Astrakhan 5
-http://dvr2.astrakhan.ru/yabl-36-hd-1/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="https://i.imgur.com/lc6LbiO.png" ,Schmitten - Zell am See (AT)
-http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Serbia - Belgrade 1
-https://streamer.devnet.rs/hls/trgrepublike.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Serbia - Belgrade 2
-https://streamer.devnet.rs/hls/gazela.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Serbia - Belgrade 3
-https://streamer.devnet.rs/hls/pancevac.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Serbia - Belgrade 4
-https://streamer.devnet.rs/hls/ada.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Serbia - Belgrade 5
-https://streamer.devnet.rs/hls/pupina.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,UK - Penguins
-http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,USA - Estes Park
-http://cdn.estesparkwebcams.com/prospect3/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,USA - Bird Feeder
-http://live.idnes.cz/slow/krmitkousa/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Beloyarsky 1
-https://cctv.kpmelnica.ru/camera7.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Beloyarsky 2
-https://cctv.kpmelnica.ru/camera1.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Beloyarsky 3
-https://cctv.kpmelnica.ru/camera2.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Buzuluk 1
-https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel1/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Buzuluk 2
-https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel2/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Buzuluk 3
-https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel4/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Buzuluk 4
-https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel5/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Buzuluk 5
-https://live3-orsk.cdnvideo.ru/orsk-rtsp/channel3/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Verkhnyaya Pyshma 3
-http://31.131.80.2:8080/c6375ebf-9804-47e6-983a-97711a213ced/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Vologda 2
-https://yes35.ru/web/webcam-3/webcam.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Ireland
-http://cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Spain
-https://cdn-003.whatsupcams.com/hls/es_duquesa01.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kashira 1
-http://cam.kashira.ru/hls/cam11.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kashira 2
-http://cam.kashira.ru/hls/cam8.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kashira 3
-http://cam.kashira.ru/hls/cam2.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kashira 3
-http://cam.kashira.ru/hls/cam10.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kashira 4
-http://cam.kashira.ru/hls/cam3.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kashira 5
-http://cam.kashira.ru/hls/cam13.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kashira 6
-http://cam.kashira.ru/hls/cam1.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kingisepp 1
-https://flussonic.king-online.ru/camera01/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kingisepp 2
-https://flussonic.king-online.ru/camera07/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kingisepp 3
-https://flussonic.king-online.ru/camera02/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kingisepp 4
-https://flussonic.king-online.ru/camera04/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kirovohrad 1
-http://webcam.shtorm.com/camera/CAM12/12.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kirovohrad 2
-http://webcam.shtorm.com/camera/CAM14/14.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kirovohrad 3
-http://webcam.shtorm.com/camera/CAM15/15.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kirovohrad 4
-http://webcam.shtorm.com/camera/CAM16/16.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kirovohrad 5
-http://webcam.shtorm.com/camera/CAM18/18.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Kirovohrad 6
-http://webcam.shtorm.com/camera/CAM17/17.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Krasnoyarsk - Bobrovy Log 1
-http://62.213.36.148:1935/live/kkd2-bot.stream/chunklist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Krasnoyarsk - Bobrovy Log 2
-http://62.213.36.148:1935/live/cam72.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Krasnoyarsk - Bobrovy Log 3
-http://62.213.36.148:1935/live/kkd1-top.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Lithuania - Vilnius
-https://s1.dcdn.lt/live/vilnius.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg
-http://live-edge.rtl.lu/cita/cita_a1/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg
-http://wowza01.newmedia.lu:1935/cita/cita_a1/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg 2
-https://live-edge.rtl.lu/aclwebcams/aclcamhh2.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg 3
-https://live-edge.rtl.lu/aclwebcams/aclcamhh1.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg 4
-http://live-edge.rtl.lu/cita/cita_a7/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg 5
-http://live-edge.rtl.lu/cita/cita_a13/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg 6
-http://live-edge.rtl.lu/cita/cita_a6/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg 7
-http://live-edge.rtl.lu/cita/cita_a4/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Luxembourg 8
-http://live-edge.rtl.lu/cita/cita_a3/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Mednogorsk 1
-https://live2-orsk.cdnvideo.ru/orsk-mednogorsk/mednogorsk1/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Mednogorsk 2
-https://live2-orsk.cdnvideo.ru/orsk-mednogorsk/mednogorsk2/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Moscow 23
-https://cameras.inetcom.ru/hls/camera12_6.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Nazarovo 3
-http://91.211.56.203:8081/sibmf/sport/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 1
-http://live.streamink.nl/live/sys1.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 10
-http://live.streamink.nl/live/sys19.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 2
-http://live.streamink.nl/live/sys2.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 3
-http://live.streamink.nl/live/sys3.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 4
-http://live.streamink.nl/live/sys4.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 5
-http://live.streamink.nl/live/sys5.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 7
-http://live.streamink.nl/live/sys7.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 8
-http://live.streamink.nl/live/sys8.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands - Scheveningen 9
-http://live.streamink.nl/live/sys11.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Netherlands 1
-https://5b8d2cbe62ad6.streamlock.net/live/eernewoude.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 1
-http://camera.global-x.ru:80/CAM_Lenina-35/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 10
-http://camera.global-x.ru:80/CAM_Iziskatelei-Visotskogo/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 11
-http://camera.global-x.ru:80/CAM_Coya_21/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 13
-http://camera.global-x.ru:80/CAM_Visotskogo-Magistralnaya/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 14
-http://camera.global-x.ru/CAM_Sovetskaya-86/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 17
-http://camera.global-x.ru/CAM_8Marta-8/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 2
-http://camera.global-x.ru:80/CAM_Lenina-39/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 4
-http://camera.global-x.ru/CAM_Sovetskaya-101/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 6
-http://camera.global-x.ru:80/CAM_Train/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 7
-http://camera.global-x.ru:80/CAM_Gazprom/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Noyabrsk 9
-http://camera.global-x.ru:80/CAM_Park/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Orenburg 10
-http://pobedy.camsh.1743.ru/hls/pobedy-sd.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Orenburg 12
-http://mira-gagarina.camsh.1743.ru/hls/mira-gagarina-sd.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Orenburg 14
-http://gazovik.camsh.1743.ru/hls/gazovik-sd.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Orenburg 15
-http://salmyshskaya.camsh.1743.ru/hls/salmyshskaya-sd.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Orenburg 9
-http://sberbank.camsh.1743.ru/hls/sberbank-sd.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Polevskoy 2
-http://31.131.80.2:8080/d16c8e89-0ca1-4c5c-ad84-f657f93fb5ef/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Polevskoy 3
-http://31.131.80.2:8080/a502c4d9-d320-4007-a03a-95158cd0ff34/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Polevskoy 4
-http://31.131.80.2:8080/Polevskoj.Karla.Marksa.6a-b863fadf8b/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Polevskoy 5
-http://31.131.80.2:8080/Polevskoj.2mkr-36bb48610c/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Polevskoy 6
-http://31.131.80.2:8080/7e7cb479-4f36-4ebf-9177-f1fea1050d8d/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Gdansk 2
-https://kamera.task.gda.pl/rtplive/k109.sdp/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Gdynia
-https://kamera.task.gda.pl/rtplive/k015.sdp/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Gdynia 2
-https://kamera.task.gda.pl/rtplive/k016.sdp/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Mikoszewo
-https://kamera.task.gda.pl/rtplive/mikoszewo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Poland - Sopot
-https://kamera.task.gda.pl/rtplive/molo.sdp/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,USA - Hippos
-https://zssd-hippo.hls.camzonecdn.com/CamzoneStreams/zssd-hippo/Playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,USA - Aviary
-https://zssd-owlaviary.hls.camzonecdn.com/CamzoneStreams/zssd-owlaviary/Playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,USA - Platypus
-https://zssd-platypus.hls.camzonecdn.com/CamzoneStreams/zssd-platypus/Playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Samara
-https://cdn.mediagolod.online/hls/zhkolimp0/stream.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Saint Petersburg 12
-https://live-smartln.cdnvideo.ru/smartln/life11/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Saint Petersburg 14
-https://live-smartln.cdnvideo.ru/smartln/mir_vnutri6/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Saint Petersburg 15
-https://live-smartln.cdnvideo.ru/smartln/mir_vnutri7/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Saint Petersburg 2
-https://live-smartln.cdnvideo.ru/smartln/mir_vnutri4/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Simferopol 7
-http://iptv.media-ix.com:11375/cam01/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 1
+
+#EXTINF:-1 group-title="Slovakia",Slovakia 1 (Kukaj.se)
 http://stream.kukaj.se/stream/9/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 10
-http://stream.profi-net.sk:1935/tmr/STREAM34.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 11
-http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 12
-http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 13
-http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 14
-http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 15
-http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 16
-http://stream.kukaj.se/stream/1/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 17
-http://stream.kukaj.se/stream/2/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 18
-http://stream.kukaj.se/stream/3/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 2
+#EXTINF:-1 group-title="Slovakia",Slovakia 2 (TMR)
 http://stream.profi-net.sk:1935/tmr/STREAM32.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 2
+#EXTINF:-1 group-title="Slovakia",Slovakia 2 (Strba - Skok)
 http://stream.strba.sk:1935/strba/VYHLAD_SKOK.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 20
-http://stream.kukaj.se/stream/5/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 21
-http://stream.kukaj.se/stream/6/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 22
-http://stream.kukaj.se/stream/7/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 3
+#EXTINF:-1 group-title="Slovakia",Slovakia 3 (TMR)
 http://stream.profi-net.sk:1935/tmr/STREAM33.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 5
+#EXTINF:-1 group-title="Slovakia",Slovakia 5 (TMR)
 http://stream.profi-net.sk:1935/tmr/STREAM31.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 6
+#EXTINF:-1 group-title="Slovakia",Slovakia 6 (TMR)
 http://stream.profi-net.sk:1935/tmr/STREAM43.stream/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Slovakia 9
+#EXTINF:-1 group-title="Slovakia",Slovakia 9 (Kukaj.se)
 http://stream.kukaj.se/stream/8/video.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Sredneuralsk 2
-http://31.131.80.2:8080/Sredneuralsk.Uralskaya.26a-71d2fe7e16/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 1
-https://stream.telko.ru/Rogog17_Cam3/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 10
-https://stream.telko.ru/Rogog17_Cam1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 11
-https://stream.telko.ru/Rogog17_Cam2/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 13
-https://stream.telko.ru/rollerpark_cam1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 14
-https://stream.telko.ru/rollerpark_cam3/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 15
-https://stream.telko.ru/Tuhach_30_12_cam1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 16
-https://stream.telko.ru/Tuh30_6cam1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 17
-https://stream.telko.ru/Tuh30_6cam2/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 18
-https://stream.telko.ru/Tuhach_30_5_cam2/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 2
-https://stream.telko.ru/Tuhach_30_5_cam1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 3
-https://stream.telko.ru/Tuhach_30_5_cam3/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 4
-https://stream.telko.ru/Tuhach_30_2_cam2/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 5
-https://stream.telko.ru/Tuhach_30_1_cam2/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 6
-https://stream.telko.ru/Tuhach_30_cam1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 7
-https://stream.telko.ru/Tuhach_30_cam2/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 8
-https://stream.telko.ru/Tuhach_28_9_cam1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stavropol 9
-https://stream.telko.ru/Tuhach_28_9_cam2/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stryi 1
+#EXTINF:-1 group-title="Slovakia",Slovakia 10 (TMR)
+http://stream.profi-net.sk:1935/tmr/STREAM34.stream/playlist.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 11 (TMR)
+http://stream.profi-net.sk:1935/tmr/STREAM3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 12 (Donovaly)
+http://parksnow.zivekamery.sk:1935/donovaly/DONOVALY.stream/playlist.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 13 (Nove Strbske Pleso)
+http://stream.strba.sk:1935/strba/VYHLAD_NOVESTRB.stream/playlist.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 14 (TMR)
+http://stream.profi-net.sk:1935/tmr/STREAM39.stream/playlist.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 15 (Strba - Namestie)
+http://stream.strba.sk:1935/strba/VYHLAD_NAMESTIE.stream/playlist.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 16 (Kukaj.se)
+http://stream.kukaj.se/stream/1/video.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 17 (Kukaj.se)
+http://stream.kukaj.se/stream/2/video.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 18 (Kukaj.se)
+http://stream.kukaj.se/stream/3/video.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 20 (Kukaj.se)
+http://stream.kukaj.se/stream/5/video.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 21 (Kukaj.se)
+http://stream.kukaj.se/stream/6/video.m3u8
+#EXTINF:-1 group-title="Slovakia",Slovakia 22 (Kukaj.se)
+http://stream.kukaj.se/stream/7/video.m3u8
+
+#EXTINF:-1 group-title="Poland" tvg-logo="https://i.imgur.com/60OW17l.png",Krupowki
+http://hoktastream5.webcamera.pl/krupowki2_cam_62169a/krupowki2_cam_62169a.stream/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Cracow 1
+http://hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Darlowo
+https://hoktastream1.webcamera.pl/darlowo_cam_dc4e72/darlowo_cam_dc4e72.stream/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Gdansk 2
+https://kamera.task.gda.pl/rtplive/k109.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Gdynia 1
+https://kamera.task.gda.pl/rtplive/k015.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Gdynia 2
+https://kamera.task.gda.pl/rtplive/k016.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Hotel Bania
+http://hoktastream4.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Hotel Stok
+http://hoktastream4.webcamera.pl/hotelstok_cam_77f104/hotelstok_cam_77f104.stream/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Karpacz
+http://hoktastream2.webcamera.pl/karpacz_cam_ab594f/karpacz_cam_ab594f.stream/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Krynica Zdroj
+http://hoktastream1.webcamera.pl/pkl_cam_2b18a1/pkl_cam_2b18a1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Mikoszewo
+https://kamera.task.gda.pl/rtplive/mikoszewo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Poland",Sopot (Webcamera)
+http://hls8.webcamera.pl/sopot_cam_e1c28f/sopot_cam_e1c28f.stream/chunks.m3u8
+#EXTINF:-1 group-title="Poland",Sopot (Molo)
+https://kamera.task.gda.pl/rtplive/molo.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Poland",TV Cam
+https://hoktastream1.webcamera.pl/tv_cam_781381/tv_cam_781381.stream/chunks.m3u8
+#EXTINF:-1 group-title="Poland",Ujsoly
+http://91.224.104.112:80/ujsoly/index.m3u8
+#EXTINF:-1 group-title="Poland",Widok
+http://91.224.104.112:80/wgwidok/index.m3u8
+#EXTINF:-1 group-title="Poland",Olawa
+http://live.kamera24.pl/umolawa/index.m3u8
+
+#EXTINF:-1 group-title="Austria",Klagenfurt - Neuer Platz
+http://stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Austria",Schladming-Dachstein
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Austria" tvg-logo="https://i.imgur.com/lc6LbiO.png",Schmitten - Zell am See
+http://s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8
+
+#EXTINF:-1 group-title="Germany",Airport Dusseldorf 2
+http://stream-5gw.1000eyes.de:1935/cupertino/dus5abb.stream/playlist.m3u8
+#EXTINF:-1 group-title="Germany",Airport Dusseldorf 3
+http://stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8
+#EXTINF:-1 group-title="Germany",Airport Dusseldorf 4
+http://stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8
+#EXTINF:-1 group-title="Germany",Airport Dusseldorf 5
+http://stream-5gw.1000eyes.de/cupertino/dused0c.stream/playlist.m3u8
+#EXTINF:-1 group-title="Germany",Binz
+http://cam01.binz-kabel.de/cam1/960.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/4L0wEdI.png",Hamburg
+https://ch-fra-n10.livespotting.com/vpu/8p96b3b9/l2mucuq9_720.m3u8
+#EXTINF:-1 group-title="Germany" tvg-logo="https://i.imgur.com/ILeO18w.png",Juist
+https://cdn.livespotting.com/vpu/z5my1uz7/kpl2gjeg.m3u8
+
+#EXTINF:-1 group-title="Switzerland",Vitznau-Rigi
+https://live.idnes.cz/slow/svycarsko_720p/manifest.m3u8
+
+#EXTINF:-1 group-title="Greece - Corfu",Akti Kontogialos
+https://corfulive.gr/akti_kontogialos/akti_kontogialos.m3u8
+#EXTINF:-1 group-title="Greece - Corfu",Oasis Hotel
+https://corfulive.gr/OasisHotel/OasisHotel.m3u8
+#EXTINF:-1 group-title="Greece - Corfu",Akron
+https://corfulive.gr/Akron/Akron.m3u8
+#EXTINF:-1 group-title="Greece - Corfu",La Veranda
+https://corfulive.gr/laveranda/laveranda.m3u8
+
+#EXTINF:-1 group-title="Croatia" tvg-logo="https://i.imgur.com/AjlTHRZ.jpg",Jelsa
+https://cdn.livespotting.com/vpu/ggazg0ll/9itrcth2.m3u8
+
+#EXTINF:-1 group-title="Serbia",Belgrade 1 (Trg Republike)
+https://streamer.devnet.rs/hls/trgrepublike.m3u8
+#EXTINF:-1 group-title="Serbia",Belgrade 2 (Gazela)
+https://streamer.devnet.rs/hls/gazela.m3u8
+#EXTINF:-1 group-title="Serbia",Belgrade 3 (Pancevac)
+https://streamer.devnet.rs/hls/pancevac.m3u8
+#EXTINF:-1 group-title="Serbia",Belgrade 4 (Ada)
+https://streamer.devnet.rs/hls/ada.m3u8
+#EXTINF:-1 group-title="Serbia",Belgrade 5 (Pupina)
+https://streamer.devnet.rs/hls/pupina.m3u8
+
+#EXTINF:-1 group-title="Netherlands",Eernewoude
+https://5b8d2cbe62ad6.streamlock.net/live/eernewoude.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 1
+http://live.streamink.nl/live/sys1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 2
+http://live.streamink.nl/live/sys2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 3
+http://live.streamink.nl/live/sys3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 4
+http://live.streamink.nl/live/sys4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 5
+http://live.streamink.nl/live/sys5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 7
+http://live.streamink.nl/live/sys7.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 8
+http://live.streamink.nl/live/sys8.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 9
+http://live.streamink.nl/live/sys11.stream/playlist.m3u8
+#EXTINF:-1 group-title="Netherlands",Scheveningen 10
+http://live.streamink.nl/live/sys19.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 1
+http://live-edge.rtl.lu/cita/cita_a1/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 1 (Alt)
+http://wowza01.newmedia.lu:1935/cita/cita_a1/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 2
+https://live-edge.rtl.lu/aclwebcams/aclcamhh2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 3
+https://live-edge.rtl.lu/aclwebcams/aclcamhh1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 4
+http://live-edge.rtl.lu/cita/cita_a7/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 5
+http://live-edge.rtl.lu/cita/cita_a13/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 6
+http://live-edge.rtl.lu/cita/cita_a6/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 7
+http://live-edge.rtl.lu/cita/cita_a4/playlist.m3u8
+#EXTINF:-1 group-title="Luxembourg",Luxembourg 8
+http://live-edge.rtl.lu/cita/cita_a3/playlist.m3u8
+
+#EXTINF:-1 group-title="Europe - Other",Lithuania - Vilnius
+https://s1.dcdn.lt/live/vilnius.stream/playlist.m3u8
+#EXTINF:-1 group-title="Europe - Other",Ireland - Tralee
+http://cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8
+#EXTINF:-1 group-title="Europe - Other",Spain - Duquesa
+https://cdn-003.whatsupcams.com/hls/es_duquesa01.m3u8
+#EXTINF:-1 group-title="Europe - Other",UK - Marwell Penguins
+http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Ukraine",Kirovohrad 1
+http://webcam.shtorm.com/camera/CAM12/12.m3u8
+#EXTINF:-1 group-title="Ukraine",Kirovohrad 2
+http://webcam.shtorm.com/camera/CAM14/14.m3u8
+#EXTINF:-1 group-title="Ukraine",Kirovohrad 3
+http://webcam.shtorm.com/camera/CAM15/15.m3u8
+#EXTINF:-1 group-title="Ukraine",Kirovohrad 4
+http://webcam.shtorm.com/camera/CAM16/16.m3u8
+#EXTINF:-1 group-title="Ukraine",Kirovohrad 5
+http://webcam.shtorm.com/camera/CAM18/18.m3u8
+#EXTINF:-1 group-title="Ukraine",Kirovohrad 6
+http://webcam.shtorm.com/camera/CAM17/17.m3u8
+#EXTINF:-1 group-title="Ukraine",Stryi 1
 http://193.53.83.168/hls4/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Stryi 2
+#EXTINF:-1 group-title="Ukraine",Stryi 2
 http://193.53.83.168/hls3/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tomsk 2
-http://cdn08.vtomske.ru/hls/stream2.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tomsk 3
-http://cdn08.vtomske.ru/hls/stream6.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tomsk 5
-http://cdn08.vtomske.ru/hls/stream9.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun - Bus Stop
-http://tv.t-tk.ru/ostanovka_lenina/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 10
-http://tv.t-tk.ru/cam_park_mira_ploshad/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 11
-http://tv.t-tk.ru/park_gidro/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 12
-http://tv.t-tk.ru/prometey/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 13
-http://tv.t-tk.ru/atrium2/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 14
-http://tv.t-tk.ru/cam_mn_yasla/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 2
-http://tv.t-tk.ru/cam_fontan_lenina/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 3
-http://tv.t-tk.ru/meriya/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 5
-http://tv.t-tk.ru/cam_vokzal/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 7
-http://tv.t-tk.ru/cam_gidroliznij_peshehod/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 8
-http://tv.t-tk.ru/cam_gimnaziya_stek/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Tulun 9
-http://tv.t-tk.ru/cam_bratskoe_kolco/index.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Airport
-http://live.idnes.cz/slow/planespotting/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Airport
-http://live.idnes.cz/slow/planespotting_720p/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Polar Bears
-http://live.idnes.cz/slow/zoobrno/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Vrsovice Railway Station
-http://live.idnes.cz/slow/vrsovice/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Vrsovice Railway Station
-http://live.idnes.cz/slow/vrsovice_720p/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Smichov Railway Station
-http://live.idnes.cz/slow/vytopna/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Bird Feeder
-http://live.idnes.cz/slow/krmitkousa_720p/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Prague
-http://live.idnes.cz/slow/amc/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Czech - Prague
-http://live.idnes.cz/slow/amc_720p/playlist.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Sharypovo
-http://91.211.56.203:8081/sibmf/sharipovo/chunks.m3u8
-#EXTINF:-1 group-title="WEBCAMS" tvg-logo="N/A" ,Sheregesh - Pospelova Park
-http://hls.kts42.ru:45125/pospelova/tracks-v1/index.m3u8
-#EXTINF:-1 tvg-id="SpaceLivepoweredbysen.uk@SD" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" group-title="Relax;Travel",Space Live powered by sen (1080p)
-https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Ukraine",Simferopol 7
+http://iptv.media-ix.com:11375/cam01/index.m3u8
+
+#EXTINF:-1 group-title="USA & Canada" tvg-logo="https://i.imgur.com/sREHnLa.png",Charlottetown (CA)
+http://media.gpei.ca/islandcam/guild.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA & Canada",Estes Park (USA)
