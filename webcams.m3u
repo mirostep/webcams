@@ -194,6 +194,9 @@ https://cdn-003.whatsupcams.com/hls/es_duquesa01.m3u8
 #EXTINF:-1 group-title="Europe - Other",UK - Marwell Penguins
 http://stream.wildlifestreaming.io:1935/Marwell/marwell_penguin.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="Francie - Paříž",Paris
+https://node0.surveillance-map.com/public/0310dd2a5f8f8d053f887810/hls/live/master.m3u8
+
 #EXTINF:-1 group-title="Ukraine",Kirovohrad 1
 http://webcam.shtorm.com/camera/CAM12/12.m3u8
 #EXTINF:-1 group-title="Ukraine",Kirovohrad 2
@@ -216,3 +219,9 @@ http://iptv.media-ix.com:11375/cam01/index.m3u8
 #EXTINF:-1 group-title="USA & Canada" tvg-logo="https://i.imgur.com/sREHnLa.png",Charlottetown (CA)
 http://media.gpei.ca/islandcam/guild.stream/playlist.m3u8
 #EXTINF:-1 group-title="USA & Canada",Estes Park (USA)
+#EXTINF:-1 group-title="USA - Minnesota",Minnesota - Traffic Camera C9181
+https://video.dot.state.mn.us/public/C9181.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA - Minnesota",Minnesota - Traffic Camera C620
+https://video.dot.state.mn.us/public/C620.stream/playlist.m3u8
+#EXTINF:-1 group-title="USA",USA - Live Surveillance Camera
+https://node0.surveillance-map.com/public/0310dd2a5f8f8d053f887810/hls/live/master.m3u8
